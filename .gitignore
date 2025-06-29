@@ -1,0 +1,16 @@
+/*
+
+!/.gitignore
+!/README.md
+!pom.xml
+!src/
+!src/main/
+!src/main/**
+
+.idea/
+*.iml
+/target/
+/.gradle/
+/build/
+*.log
+.DS_Store
